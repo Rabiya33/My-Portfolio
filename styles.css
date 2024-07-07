@@ -255,6 +255,9 @@ html {
     width: 100%;
 
   }
+  .footer__icon {
+    width: 100%;
+  }
   .contact__container { 
     width: 100%;
 
@@ -266,12 +269,43 @@ html {
     width: 100%;
 
   }
+
   .hero__container {
     width: 100%;
   }
   .header__container {
     width: 100%;
   }
+  .contact__form__container {
+    width: 100%;
+  }
+  .contact__input__container2 {
+    width: 100%;
+  }
+  .contact__input__container1 {
+    width:100%;
+   }
+   .contact__submit {
+    width:100%;
+   }
+   .contact__message {
+    width:100%;
+   }
+   .contact__inner__form {
+    width:100%;
+   }
+   .about__innercontainer {
+    width:100%;
+
+   }
+   .hero__picture__container:hover {
+    width:100%;
+
+   }
+   .hero__text__container {
+    width:100%;
+
+   }
 
 }
 @media only screen and (min-width : 601px ) and  (max-width : 768px ){
@@ -279,6 +313,20 @@ html {
     width: 100%;
 
   }
+  .footer__icon {
+    width: 100%;
+  }
+  .contact__form__container {
+    width: 100%;
+  }
+  .contact__input__container2 {
+    width: 100%;
+  }
+  .contact__input__container1 {
+    width:100%;
+
+  }
+
   .contact__container { 
     width: 100%;
 
@@ -296,5 +344,26 @@ html {
   .header__container {
     width: 100%;
   }
+  .contact__submit {
+    width:100%;
+}
+.contact__message {
+  width:100%;
 
+}
+.contact__inner__form {
+  width:100%;
+  
+}
+.about__innercontainer {
+  width:100%;
+
+}
+.hero__picture__container:hover {
+  width:100%;
+
+}
+.hero__text__container {
+  width:100%;
+}
 }
